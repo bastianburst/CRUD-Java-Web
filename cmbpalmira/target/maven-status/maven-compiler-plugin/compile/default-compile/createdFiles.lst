@@ -1,0 +1,8 @@
+rests\SecurityFilter.class
+models\Asistente_.class
+rests\AsistenteRest.class
+sessions\AsistenteFacade.class
+models\Asistente.class
+rests\ApplicationConfig.class
+sessions\AbstractFacade.class
+Utils\RestUtils.class
